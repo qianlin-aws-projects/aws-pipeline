@@ -20,3 +20,11 @@ https://www.udemy.com/course/create-continuous-delivery-pipelines-on-aws-using-c
 https://github.com/qianlin-aws-projects/aws-pipeline
 
 目前看到了这里。
+
+Account：
+root:
+education email + Q**4!
+
+Acct id: 636658857210
+
+sde user 叫：sde-maqianlin-0 + Q**4!
